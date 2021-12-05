@@ -1,3 +1,10 @@
+# --- Student Changes --- #
+
+Scene modeling question 1:
+    Scene: e-complete-building-with-sliding-door
+Under Scenes/3-buildings/e-complete-building-with-sliding-door
+
+
 # Unity week 6: Three-dimensional scene-building and navigation
 
 A project with step-by-step scenes illustrating how to construct a 3D game, including:
