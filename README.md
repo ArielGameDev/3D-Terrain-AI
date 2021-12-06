@@ -1,10 +1,15 @@
 # --- Student Changes --- #
 
 Scene modeling question 1:
-    Scene: e-complete-building-with-sliding-door
-Under Scenes/3-buildings/e-complete-building-with-sliding-door
+    
+* Scene: e-complete-building-with-sliding-door Under Scenes/3-buildings/e-complete-building-with-sliding-door
+    
+* Code: [PlayAnimOnEnter.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/PlayAnimOnEnter.cs)
 
+Player question 2:
 
+* Scene: a-charactercontroller Under Scenes/2-player/a-charactercontroller
+* Codes: [HeyYou.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/HeyYou.cs)  --- [KeyboardMover.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/KeyboardMover.cs) 
 # Unity week 6: Three-dimensional scene-building and navigation
 
 A project with step-by-step scenes illustrating how to construct a 3D game, including:
