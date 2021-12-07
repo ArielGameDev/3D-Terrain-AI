@@ -6,16 +6,23 @@ Scene modeling question 1:
     
 * Code: [PlayAnimOnEnter.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/PlayAnimOnEnter.cs)
 
-Player question 2:
+* itch.io link: https://arielgamedev.itch.io/homework-8-scene-modeling
+
+Player questions 1-b + 3-b:
 
 * Scene: a-charactercontroller Under Scenes/2-player/a-charactercontroller
-* Codes: [HeyYou.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/HeyYou.cs)  --- [KeyboardMover.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/KeyboardMover.cs) 
+
+* Code: [HeyYou.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/HeyYou.cs), [KeyboardMover.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/KeyboardMover.cs) 
+
+* itch.io link: https://arielgamedev.itch.io/ex8-player 
 
 AI question 1:
     
 * Scene: b-enemy Under Scenes/4-ai/b-enemy
     
 * Code: [BraveEnemy.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/BraveEnemy.cs), [ChasingEnemy.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/ChasingEnemy.cs), [CowardEnemy.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/CowardEnemy.cs), [EngineEnemy.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/EngineEnemy.cs)
+
+* itch.io link: https://arielgamedev.itch.io/ex8-enemyai
 
 # Unity week 6: Three-dimensional scene-building and navigation
 
