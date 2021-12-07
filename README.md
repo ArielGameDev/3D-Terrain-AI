@@ -10,6 +10,13 @@ Player question 2:
 
 * Scene: a-charactercontroller Under Scenes/2-player/a-charactercontroller
 * Codes: [HeyYou.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/HeyYou.cs)  --- [KeyboardMover.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/KeyboardMover.cs) 
+
+AI question 1:
+    
+* Scene: b-enemy Under Scenes/4-ai/b-enemy
+    
+* Code: [BraveEnemy.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/BraveEnemy.cs), [ChasingEnemy.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/ChasingEnemy.cs), [CowardEnemy.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/CowardEnemy.cs), [EngineEnemy.cs](https://github.com/ArielGameDev/3D-Terrain-AI/blob/master/Assets/Scripts/HOMEWORK/EngineEnemy.cs)
+
 # Unity week 6: Three-dimensional scene-building and navigation
 
 A project with step-by-step scenes illustrating how to construct a 3D game, including:
